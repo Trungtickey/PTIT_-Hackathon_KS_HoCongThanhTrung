@@ -1,0 +1,7 @@
+[
+    { "id": 1, "productName": "Cam", "price": 10000, "image": "../img/orange.jpg", "quantity": 10 },
+    { "id": 2, "productName": "Táo", "price": 15000, "image": "../img/apple.png", "quantity": 5 },
+    { "id": 3, "productName": "Đào", "price": 20000, "image": "../img/peach.jpg", "quantity": 20 },
+    { "id": 4, "productName": "Nho", "price": 20000, "image": "../img/grape.jpg", "quantity": 25 },
+    { "id": 5, "productName": "Chuối", "price": 20000, "image": "../img/banana.png", "quantity": 30 }
+  ]
